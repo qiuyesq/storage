@@ -1,2 +1,2 @@
 # storage
-For the distbuild storage.
+The code of the distbuild storage in Rust language.
